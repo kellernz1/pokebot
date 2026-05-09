@@ -9,9 +9,6 @@ An interactive and fun Discord mini-game bot inspired by the classic "Who's That
 - 🎮 **Interactive Game Loop**  
   Use `!pokemon` to start a round. The bot fetches a random Pokémon from the PokéAPI and waits for the correct answer.
 
-- 🧠 **Fuzzy Matching Logic**  
-  The bot intelligently accepts answers with minor typos (e.g., `"Pikachuu"` instead of `"Pikachu"`) using string similarity algorithms.
-
 - 🏆 **Global Ranking System**  
   A built-in **SQLite** database stores user scores, allowing players to see the Top 5 trainers using the `!ranking` command.
 
