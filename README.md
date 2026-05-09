@@ -116,7 +116,7 @@ Feel free to fork this project and submit pull requests.
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **Keller Nz**
+Developed by **Keller Nz**
 
 ---
 
